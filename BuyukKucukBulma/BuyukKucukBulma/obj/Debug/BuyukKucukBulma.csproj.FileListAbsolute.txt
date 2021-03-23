@@ -1,0 +1,7 @@
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyukKucukBulma\BuyukKucukBulma\bin\Debug\BuyukKucukBulma.exe.config
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyukKucukBulma\BuyukKucukBulma\bin\Debug\BuyukKucukBulma.exe
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyukKucukBulma\BuyukKucukBulma\bin\Debug\BuyukKucukBulma.pdb
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyukKucukBulma\BuyukKucukBulma\obj\Debug\BuyukKucukBulma.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyukKucukBulma\BuyukKucukBulma\obj\Debug\BuyukKucukBulma.exe
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyukKucukBulma\BuyukKucukBulma\obj\Debug\BuyukKucukBulma.pdb
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyukKucukBulma\BuyukKucukBulma\obj\Debug\BuyukKucukBulma.csprojAssemblyReference.cache
