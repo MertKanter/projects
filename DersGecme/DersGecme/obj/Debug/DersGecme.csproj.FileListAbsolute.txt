@@ -1,0 +1,6 @@
+C:\Users\Mert Kanter\Desktop\C#\hafta03\DersGecme\DersGecme\bin\Debug\DersGecme.exe.config
+C:\Users\Mert Kanter\Desktop\C#\hafta03\DersGecme\DersGecme\bin\Debug\DersGecme.exe
+C:\Users\Mert Kanter\Desktop\C#\hafta03\DersGecme\DersGecme\bin\Debug\DersGecme.pdb
+C:\Users\Mert Kanter\Desktop\C#\hafta03\DersGecme\DersGecme\obj\Debug\DersGecme.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kanter\Desktop\C#\hafta03\DersGecme\DersGecme\obj\Debug\DersGecme.exe
+C:\Users\Mert Kanter\Desktop\C#\hafta03\DersGecme\DersGecme\obj\Debug\DersGecme.pdb
