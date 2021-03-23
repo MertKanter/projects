@@ -1,0 +1,7 @@
+C:\Users\Mert Kanter\Desktop\C#\hafta03\kosullar2\kosullar2\bin\Debug\kosullar2.exe.config
+C:\Users\Mert Kanter\Desktop\C#\hafta03\kosullar2\kosullar2\bin\Debug\kosullar2.exe
+C:\Users\Mert Kanter\Desktop\C#\hafta03\kosullar2\kosullar2\bin\Debug\kosullar2.pdb
+C:\Users\Mert Kanter\Desktop\C#\hafta03\kosullar2\kosullar2\obj\Debug\kosullar2.csprojAssemblyReference.cache
+C:\Users\Mert Kanter\Desktop\C#\hafta03\kosullar2\kosullar2\obj\Debug\kosullar2.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kanter\Desktop\C#\hafta03\kosullar2\kosullar2\obj\Debug\kosullar2.exe
+C:\Users\Mert Kanter\Desktop\C#\hafta03\kosullar2\kosullar2\obj\Debug\kosullar2.pdb
