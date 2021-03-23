@@ -1,0 +1,7 @@
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyuktenKucugeSiralama\BuyuktenKucugeSiralama\bin\Debug\BuyuktenKucugeSiralama.exe.config
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyuktenKucugeSiralama\BuyuktenKucugeSiralama\bin\Debug\BuyuktenKucugeSiralama.exe
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyuktenKucugeSiralama\BuyuktenKucugeSiralama\bin\Debug\BuyuktenKucugeSiralama.pdb
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyuktenKucugeSiralama\BuyuktenKucugeSiralama\obj\Debug\BuyuktenKucugeSiralama.csprojAssemblyReference.cache
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyuktenKucugeSiralama\BuyuktenKucugeSiralama\obj\Debug\BuyuktenKucugeSiralama.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyuktenKucugeSiralama\BuyuktenKucugeSiralama\obj\Debug\BuyuktenKucugeSiralama.exe
+C:\Users\Mert Kanter\Desktop\C#\hafta03\BuyuktenKucugeSiralama\BuyuktenKucugeSiralama\obj\Debug\BuyuktenKucugeSiralama.pdb
