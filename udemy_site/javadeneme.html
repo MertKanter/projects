@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <body style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;" >
+        <p style="font-weight: bold;">Saat Uygulaması</p>
+        <p id="ornek"></p>
+
+        <script>
+            var mesaj, Saat;
+            Saat=new Date().getHours();
+
+            if(Saat<10){
+                mesaj="Gündaydın"
+            }
+            else if(Saat<20){
+
+                mesaj="İyi günler";
+            }
+            else{
+
+                mesaj="iyi akşamlar"
+            }
+
+            document.getElementById('ornek').innerHTML=mesaj;
+
+            window.alert(mesaj);
+
+            document.write(mesaj);
+        </script>
+        
+    </body>
+</html>
